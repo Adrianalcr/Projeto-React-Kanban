@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  background: #ffff00;
+  padding: 10px;
+}
+
+.navbar .titulo {
+  align-items: center;
+  font-size: 18px;
+  font-weight: 400;
+  color: #333;
+}
